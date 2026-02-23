@@ -1,6 +1,8 @@
-# LX Markdown Editor
+# Lixin's Markdown Editor
 
 An elegant, lightweight markdown editor with real-time preview.
+
+![Lixin's Markdown Editor Screenshot](./screenshot.png)
 
 ## Features
 
